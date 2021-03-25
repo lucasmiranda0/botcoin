@@ -1,6 +1,6 @@
 # Botcoin
 
-Você pode ver as funções digitando $help
+Você pode ver todas as funções disponíveis digitando $help
 
 As funções são:
 
